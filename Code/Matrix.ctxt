@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Matrix
+comment1.params=
+comment1.target=void\ randomPheromoneInitialization()
+comment2.params=m\ n
+comment2.target=Matrix(int,\ int)
+comment3.params=
+comment3.target=int\ getN()
+comment4.params=
+comment4.target=int\ getM()
+comment5.params=r\ c
+comment5.target=double\ get(int,\ int)
+comment6.params=r\ c\ x
+comment6.target=void\ set(int,\ int,\ double)
+comment7.params=x
+comment7.target=Matrix\ multiply(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ print()
+numComments=10

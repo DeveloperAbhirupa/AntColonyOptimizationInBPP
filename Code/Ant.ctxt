@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Ant
+comment1.params=items
+comment1.target=Ant(int)
+comment2.params=nextBin\ i
+comment2.target=void\ addTo(int,\ int)
+comment3.params=
+comment3.target=double\ getFitness()
+comment4.params=i
+comment4.target=int\ getBin(int)
+comment5.params=b\ BPP1
+comment5.target=void\ updateFitness(int,\ boolean)
+comment6.params=otherObject
+comment6.target=int\ compareTo(java.lang.Object)
+comment7.params=otherObject
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=void\ print()
+numComments=10
